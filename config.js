@@ -2,16 +2,16 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['16199961931']
-global.premium = ['16199961931']
-global.ownername = 'Ziv San'
-global.botname = 'Cute Bot'
-global.packname = '© by AliyaBot'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.owner = ['6285822347348']
+global.premium = ['6285822347348']
+global.ownername = 'Arull🥶'
+global.botname = 'ArullBotz'
+global.packname = '© by Arull🥶'
+global.gc = 'https://chat.whatsapp.com/LHfAOQ4sa2g40Bu5sXDWva'
+global.linkyt = 'https://youtu.be/Y4lDHozWsnI'
+global.linkgc = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe'
 global.limitawal = '100'
-global.author = '@alya.xzy'
+global.author = '@Arull'
 global.sessionName = 'ziv'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = 'terserah'
